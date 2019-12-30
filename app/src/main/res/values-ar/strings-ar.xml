@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">أخبار اليوم اليوم</string>
+    <string name="full_news_loading_string">تحميل</string>
+    <string name="main_activity_daily_news_btn_text">اخر الاخبار</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">Новости дня сегодня</string>
+<string name="full_news_loading_string">Загрузка...</string>
+<string name="main_activity_daily_news_btn_text">Последние новости</string>
+</resources>

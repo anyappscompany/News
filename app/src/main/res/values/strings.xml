@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="full_news_loading_string">Loading...</string>
+    <string name="main_activity_daily_news_btn_text">Daily News</string>
+</resources>
+
+<!-- $geo = array("AU", "AT", "AR", "BE", "BR", "GB", "HU", "VN", "DE", "HK", "GR", "DK", "EG", "IL", "IN",
+"ID", "IE", "IT", "CA", "KE", "CO", "MY", "MX", "NG", "NL", "NZ", "NO", "PL", "PT", "KR", "RU", "RO", "SA",
+"SG", "US", "TH", "TW", "TR", "UA", "PH", "FI", "FR", "CZ", "CL", "CH", "SE", "ZA", "JP"); -->

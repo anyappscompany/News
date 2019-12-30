@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">आज दिन की खबर</string>
+    <string name="full_news_loading_string">लदान...</string>
+    <string name="main_activity_daily_news_btn_text">नवीनतम समाचार</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">今日世界新闻</string>
+    <string name="full_news_loading_string">载入中...</string>
+    <string name="main_activity_daily_news_btn_text">最新消息</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">আজকের দিনের খবর</string>
+    <string name="full_news_loading_string">লোড হচ্ছে...</string>
+    <string name="main_activity_daily_news_btn_text">সর্বশেষ খবর</string>
+</resources>

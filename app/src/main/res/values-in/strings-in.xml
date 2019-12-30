@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notícias do dia hoje</string>
+    <string name="full_news_loading_string">A carregar...</string>
+    <string name="main_activity_daily_news_btn_text">Últimas notícias</string>
+</resources>
